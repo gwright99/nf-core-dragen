@@ -16,7 +16,7 @@ process DRAGEN_BUILDHASHTABLE {
     touch test.txt
     """
 }
-    // dragen --help
+    /opt/edico/bin/dragen --help
 
     // dragen --version
     
